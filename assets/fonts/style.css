@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Sabon';
+   font-display: swap;
+   src: url('Sabon/font.ttf');
+}
+@font-face {
+   font-family: 'Frutiger';
+   font-display: swap;
+   src: url('Frutiger/font.ttf');
+}
